@@ -1,0 +1,15 @@
+{
+    "old-router.txt": {
+        "destination": "www.google.com",
+        "packet_transmit": 20,
+        "packet_receive": 20,
+        "packet_loss_count": 0,
+        "packet_loss_rate": 0.0,
+        "rtt_min": 4.85,
+        "rtt_avg": 16.805,
+        "rtt_max": 104.141,
+        "rtt_mdev": 25.531,
+        "packet_duplicate_count": 0,
+        "packet_duplicate_rate": 0.0
+    }
+}
